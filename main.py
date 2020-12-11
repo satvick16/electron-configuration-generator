@@ -20,4 +20,3 @@ if preference == "r" or preference == "R":
 	regular.regular_config()
 else:
 	noble_gas.noble_gas_config()
-
