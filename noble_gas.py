@@ -34,6 +34,10 @@ def noble_gas_config():
 				for j in config[flag + 1:]:
 					ans += f" {j[2:]}"
 
+				# fix condensed notation for noble gases
+				if ans[] in nobles:
+					pass
+
 				print(ans)
 
 		config.append(item)
